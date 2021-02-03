@@ -20,6 +20,7 @@ brew install git
 cask "docker
 cask "firefox"
 cask "google-chrome"
+cask "google-cloud-sdk"
 cask "google-drive-file-stream"
 cask "macpass"
 cask "microsoft-teams"
