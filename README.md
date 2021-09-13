@@ -17,4 +17,4 @@
 
         $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
-        $ brew bundle -f ~/.dotfiles/Brewfile
+        $ brew bundle --file ~/.dotfiles/Brewfile
