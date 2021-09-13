@@ -2,6 +2,8 @@ tap "homebrew/bundle"
 tap "homebrew/core"
 tap "homebrew/cask"
 
+# Distributed revision control system
+brew "git"
 # Clone of cat(1) with syntax highlighting and Git integration
 brew "bat"
 # Modern replacement for 'ls'
@@ -14,8 +16,6 @@ brew "terraform"
 brew "tflint"
 # Access X11 clipboards from the command-line
 brew "xclip"
-# Distributed revision control system
-brew install git
 
 cask "docker"
 cask "firefox"
