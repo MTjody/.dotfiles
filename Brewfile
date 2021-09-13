@@ -17,7 +17,7 @@ brew "xclip"
 # Distributed revision control system
 brew install git
 
-cask "docker
+cask "docker"
 cask "firefox"
 cask "google-chrome"
 cask "google-cloud-sdk"
