@@ -1,6 +1,7 @@
 tap "homebrew/bundle"
 tap "homebrew/core"
 tap "homebrew/cask"
+tap "homebrew/cask-fonts"
 
 # Distributed revision control system
 brew "git"
@@ -33,3 +34,4 @@ cask "visual-studio-code"
 # cask "vlc"
 cask "the-unarchiver"
 cask "notion"
+cask "font-jetbrains-mono"
