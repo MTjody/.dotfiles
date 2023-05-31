@@ -17,8 +17,10 @@ brew "node"
 # brew "tflint"
 # Access X11 clipboards from the command-line
 brew "xclip"
+brew "python"
+brew "docker-compose"
 
-# cask "docker"
+cask "docker"
 # cask "firefox"
 cask "google-chrome"
 # cask "google-cloud-sdk"
